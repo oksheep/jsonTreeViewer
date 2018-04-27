@@ -6,7 +6,7 @@
  * Released under the MIT license (LICENSE.txt)
  */
 
-var jsonTree = (function() {
+window.jsonTree = (function() {
     
     /* ---------- Utilities ---------- */
     var utils = {

@@ -1,0 +1,21 @@
+{
+  "name": "@zhaolei0791/json-tree-viewer",
+  "version": "1.0.1",
+  "description": "The library and the viewer released under the MIT license (LICENSE.txt).",
+  "main": "jsonTreeViewer.js",
+  "keywords": ["json", "view", "tree"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoleiwhut/jsonTreeViewer.git"
+  },
+  "private": false,
+  "author": "zhaolei0791 <zhaolei0791@126.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoleiwhut/jsonTreeViewer/issues"
+  },
+  "homepage": "https://github.com/zhaoleiwhut/jsonTreeViewer#readme"
+}
